@@ -9,7 +9,7 @@ An API that can register a delayed event and process that when delay expired.
 * 1. Use Maven and add dependency --
 
 ```xml
-<groupId>com.soumen</groupId>
+<groupId>io.github.soumencemk</groupId>
 <artifactId>DelayedCallback</artifactId>
 <version>1.0</version>
 ```
